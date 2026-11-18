@@ -1,0 +1,19 @@
+{
+  "files": [
+    {
+      "file": "demo_data/kdata_ktGaussian50.npy",
+      "bytes": 2312110208,
+      "sha256": "0646d694220de178b1c0bcea1a0bfe272ed022cced2d0f1bd3c7be622f349b6f"
+    },
+    {
+      "file": "demo_data/coilmap.npy",
+      "bytes": 36126848,
+      "sha256": "a103bce038bd048ddb8cec348e02cb55307e8c025d155f7ffc562e406bdca145"
+    },
+    {
+      "file": "demo_data/segmask.npy",
+      "bytes": 1806464,
+      "sha256": "4ba08c65554e5399a119b9df5f09313ad5aa3569644c5ae948d166594243f206"
+    }
+  ]
+}
